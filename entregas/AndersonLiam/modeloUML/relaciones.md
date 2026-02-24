@@ -16,5 +16,5 @@
 | **Cancion** | **GeneroMusical** | **Agregación** | La canción pertenece a un género, pero el género musical existe por sí solo en el sistema aunque se borre la canción. |
 | **Cancion** | **Compositor** | **Agregación** | El compositor forma parte de los créditos fijos de la obra, pero tiene un ciclo de vida independiente (no muere si la canción es censurada o eliminada). |
 | **Cancion** | **Productor** | **Agregación** | El productor es parte fundamental de la creación de la pista, pero sigue existiendo en el sistema de forma independiente a esta canción en concreto. |
-
 | **Oyente** | **Playlist** | **Composición** | Relación "todo-parte" dependiente. La playlist personal nace y muere con su creador; si el oyente elimina su cuenta, la playlist se destruye con él. |
+
